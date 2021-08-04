@@ -78,9 +78,9 @@ main section.right {
 main section.right img {
   border-radius: 50%;
   width: 20vw;
-  height: 20vw;
+  height: 25vw;
   position: absolute;
-  top: 55vh;
+  top: 50vh;
   right: 25vw;
   -webkit-transform: translateY(-50%);
           transform: translateY(-50%);
@@ -203,6 +203,7 @@ main section.contact {
   -webkit-box-align: center;
       -ms-flex-align: center;
           align-items: center;
+  padding: 2rem;
 }
 
 main section.contact div.content h2 {

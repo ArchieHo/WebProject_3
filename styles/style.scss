@@ -61,9 +61,9 @@ main {
     img {
       border-radius: 50%;
       width: 20vw;
-      height: 20vw;
+      height: 25vw;
       position: absolute;
-      top: 55vh;
+      top: 50vh;
       right: 25vw;
       transform: translateY(-50%);
     }
@@ -151,7 +151,7 @@ main {
     flex: 1 1 500px;
     display: flex;
     align-items: center;
-
+    padding: 2rem;
     div.content {
       h2 {
         margin: 1rem 0rem;
